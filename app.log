@@ -1,0 +1,295 @@
+2024-06-26 12:01:09,720 - INFO - Logging configured.
+2024-06-26 12:01:34,809 - INFO - Logging configured.
+2024-06-26 12:01:34,811 - INFO - menu command is registered.
+2024-06-26 12:03:54,289 - INFO - Logging configured.
+2024-06-26 12:03:54,290 - INFO - menu command is registered.
+2024-06-26 12:22:11,136 - INFO - Logging configured.
+2024-06-26 12:22:11,144 - INFO - menu command is registered.
+2024-06-26 12:23:00,188 - INFO - Logging configured.
+2024-06-26 12:23:00,189 - INFO - menu command is registered.
+2024-06-26 12:23:29,845 - INFO - Logging configured.
+2024-06-26 12:23:29,846 - INFO - menu command is registered.
+2024-06-26 13:29:58,608 - INFO - Logging configured.
+2024-06-26 13:29:58,609 - INFO - menu command is registered.
+2024-06-26 13:39:28,608 - INFO - Logging configured.
+2024-06-26 13:39:28,609 - INFO - menu command is registered.
+2024-06-26 15:45:41,423 - INFO - Logging configured.
+2024-06-26 15:45:41,569 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 15:50:19,131 - INFO - Application exit.
+2024-06-26 15:50:19,132 - INFO - Application shutdown.
+2024-06-26 15:52:07,309 - INFO - Logging configured.
+2024-06-26 15:52:07,401 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 15:54:48,447 - INFO - Application exit.
+2024-06-26 15:54:48,448 - INFO - Application shutdown.
+2024-06-26 15:56:02,198 - INFO - Logging configured.
+2024-06-26 15:56:02,237 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 15:56:02,241 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 15:56:02,241 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 15:56:41,331 - INFO - Application exit.
+2024-06-26 15:56:41,332 - INFO - Application shutdown.
+2024-06-26 15:56:43,676 - INFO - Logging configured.
+2024-06-26 15:56:43,723 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 15:56:43,727 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 15:56:43,728 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:00:25,357 - INFO - Application exit.
+2024-06-26 16:00:25,359 - INFO - Application shutdown.
+2024-06-26 16:00:28,556 - INFO - Logging configured.
+2024-06-26 16:00:28,620 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:00:28,623 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:00:28,623 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:00:38,459 - INFO - Application exit.
+2024-06-26 16:00:38,461 - INFO - Application shutdown.
+2024-06-26 16:02:03,245 - INFO - Logging configured.
+2024-06-26 16:02:03,284 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:02:03,288 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:02:03,288 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:02:12,525 - INFO - Application exit.
+2024-06-26 16:02:12,526 - INFO - Application shutdown.
+2024-06-26 16:03:08,971 - INFO - Logging configured.
+2024-06-26 16:03:09,049 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:03:09,053 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:03:09,053 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:03:48,238 - INFO - Application exit.
+2024-06-26 16:03:48,239 - INFO - Application shutdown.
+2024-06-26 16:03:50,178 - INFO - Logging configured.
+2024-06-26 16:03:50,253 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:03:50,260 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:03:50,260 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:07:21,673 - INFO - Application exit.
+2024-06-26 16:07:21,674 - INFO - Application shutdown.
+2024-06-26 16:07:23,917 - INFO - Logging configured.
+2024-06-26 16:07:23,978 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:07:23,988 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:07:23,989 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:07:41,704 - INFO - Application exit.
+2024-06-26 16:07:41,705 - INFO - Application shutdown.
+2024-06-26 16:07:46,553 - INFO - Logging configured.
+2024-06-26 16:07:46,647 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:07:46,660 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:07:46,661 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:08:40,072 - INFO - Application exit.
+2024-06-26 16:08:40,072 - INFO - Application shutdown.
+2024-06-26 16:08:42,922 - INFO - Logging configured.
+2024-06-26 16:08:42,999 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:08:43,007 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:08:43,009 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:09:20,391 - INFO - Application exit.
+2024-06-26 16:09:20,392 - INFO - Application shutdown.
+2024-06-26 16:09:22,801 - INFO - Logging configured.
+2024-06-26 16:09:22,863 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:09:22,874 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:09:22,875 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:11:37,274 - INFO - Application exit.
+2024-06-26 16:11:37,275 - INFO - Application shutdown.
+2024-06-26 16:11:39,579 - INFO - Logging configured.
+2024-06-26 16:11:39,651 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:11:39,666 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:11:39,667 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:12:39,614 - INFO - Application exit.
+2024-06-26 16:12:39,615 - INFO - Application shutdown.
+2024-06-26 16:12:42,665 - INFO - Logging configured.
+2024-06-26 16:12:42,760 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:12:42,775 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:12:42,784 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:13:05,201 - INFO - Application exit.
+2024-06-26 16:13:05,202 - INFO - Application shutdown.
+2024-06-26 16:13:06,949 - INFO - Logging configured.
+2024-06-26 16:13:07,020 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:13:07,029 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:13:07,030 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:27:43,240 - INFO - Application interrupted and exiting gracefully.
+2024-06-26 16:27:43,274 - INFO - Application shutdown.
+2024-06-26 16:32:00,394 - INFO - Logging configured.
+2024-06-26 16:32:00,486 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:32:00,493 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:32:00,494 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:37:18,568 - INFO - Application exit.
+2024-06-26 16:37:18,569 - INFO - Application shutdown.
+2024-06-26 16:37:22,002 - INFO - Logging configured.
+2024-06-26 16:37:22,065 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:37:22,075 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:37:22,076 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:37:25,745 - INFO - Application exit.
+2024-06-26 16:37:25,745 - INFO - Application shutdown.
+2024-06-26 16:38:06,476 - INFO - Logging configured.
+2024-06-26 16:38:06,572 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:38:06,591 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:38:06,593 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:38:24,360 - INFO - Application exit.
+2024-06-26 16:38:24,361 - INFO - Application shutdown.
+2024-06-26 16:40:44,638 - INFO - Logging configured.
+2024-06-26 16:40:44,709 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:42:42,577 - INFO - Application shutdown.
+2024-06-26 16:42:45,112 - INFO - Logging configured.
+2024-06-26 16:42:45,222 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:42:45,230 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:42:45,232 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:45:19,578 - INFO - Application exit.
+2024-06-26 16:45:19,578 - INFO - Application shutdown.
+2024-06-26 16:45:23,241 - INFO - Logging configured.
+2024-06-26 16:45:23,329 - ERROR - Error importing plugin add: No module named 'calc_app.commands.command'
+2024-06-26 16:45:23,338 - ERROR - Error importing plugin divide: No module named 'calc_app.commands.command'
+2024-06-26 16:45:23,340 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:45:29,513 - INFO - Application exit.
+2024-06-26 16:45:29,514 - INFO - Application shutdown.
+2024-06-26 16:45:57,542 - INFO - Logging configured.
+2024-06-26 16:45:57,781 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 16:45:57,992 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 16:45:57,993 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:46:11,233 - INFO - Application exit.
+2024-06-26 16:46:11,234 - INFO - Application shutdown.
+2024-06-26 16:50:13,174 - INFO - Logging configured.
+2024-06-26 16:50:13,241 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 16:50:13,330 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 16:50:13,355 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 16:50:13,432 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 16:50:13,519 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 16:50:13,573 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 16:50:13,641 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 16:50:13,705 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 16:50:13,706 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 16:50:26,618 - INFO - Application exit.
+2024-06-26 16:50:26,619 - INFO - Application shutdown.
+2024-06-26 17:18:40,998 - INFO - Logging configured.
+2024-06-26 17:18:41,113 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 17:18:41,126 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 17:18:41,229 - INFO - Command 'enviornment' from plugin 'enviornment' registered.
+2024-06-26 17:18:41,243 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 17:18:41,256 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 17:18:41,264 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 17:18:41,282 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 17:18:41,305 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 17:18:41,326 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 17:18:41,327 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 17:19:25,112 - INFO - Application exit.
+2024-06-26 17:19:25,113 - INFO - Application shutdown.
+2024-06-26 17:19:41,454 - INFO - Logging configured.
+2024-06-26 17:19:41,534 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 17:19:41,546 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 17:19:41,560 - INFO - Command 'enviornment' from plugin 'enviornment' registered.
+2024-06-26 17:19:41,585 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 17:19:41,600 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 17:19:41,671 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 17:19:41,699 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 17:19:41,724 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 17:19:41,752 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 17:19:41,752 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 17:19:57,895 - INFO - Application exit.
+2024-06-26 17:19:57,896 - INFO - Application shutdown.
+2024-06-26 17:20:35,681 - INFO - Logging configured.
+2024-06-26 17:20:35,735 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 17:20:35,749 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 17:20:35,832 - INFO - Command 'enviornment' from plugin 'enviornment' registered.
+2024-06-26 17:20:35,848 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 17:20:35,860 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 17:20:35,872 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 17:20:35,885 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 17:20:35,933 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 17:20:35,960 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 17:20:35,962 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 17:20:49,089 - INFO - Application exit.
+2024-06-26 17:20:49,090 - INFO - Application shutdown.
+2024-06-26 17:21:10,181 - INFO - Logging configured.
+2024-06-26 17:21:10,222 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 17:21:10,229 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 17:21:10,332 - INFO - Command 'enviornment' from plugin 'enviornment' registered.
+2024-06-26 17:21:10,347 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 17:21:10,365 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 17:21:10,387 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 17:21:10,397 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 17:21:10,425 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 17:21:10,451 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 17:21:10,454 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 17:24:37,201 - INFO - Application exit.
+2024-06-26 17:24:37,202 - INFO - Application shutdown.
+2024-06-26 17:24:39,607 - INFO - Logging configured.
+2024-06-26 17:24:39,677 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 17:24:39,686 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 17:24:39,793 - INFO - Command 'enviornment' from plugin 'enviornment' registered.
+2024-06-26 17:24:39,816 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 17:24:39,831 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 17:24:39,856 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 17:24:39,871 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 17:24:39,892 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 17:24:39,910 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 17:24:39,910 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 17:26:17,449 - INFO - Application exit.
+2024-06-26 17:26:17,451 - INFO - Application shutdown.
+2024-06-26 17:26:20,841 - INFO - Logging configured.
+2024-06-26 17:26:20,905 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 17:26:20,916 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 17:26:21,004 - INFO - Command 'enviornment' from plugin 'enviornment' registered.
+2024-06-26 17:26:21,022 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 17:26:21,044 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 17:26:21,067 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 17:26:21,089 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 17:26:21,103 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 17:26:21,123 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 17:26:21,124 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 17:26:37,521 - INFO - Application exit.
+2024-06-26 17:26:37,521 - INFO - Application shutdown.
+2024-06-26 17:27:14,021 - INFO - Logging configured.
+2024-06-26 17:27:14,095 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 17:27:14,107 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 17:27:14,122 - INFO - Command 'env' from plugin 'env' registered.
+2024-06-26 17:27:14,137 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 17:27:14,167 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 17:27:14,188 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 17:27:14,207 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 17:27:14,221 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 17:27:14,245 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 17:27:14,246 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 17:27:24,076 - INFO - Application exit.
+2024-06-26 17:27:24,077 - INFO - Application shutdown.
+2024-06-26 18:44:15,298 - INFO - Logging configured.
+2024-06-26 18:44:15,456 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 18:44:15,468 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 18:44:15,483 - INFO - Command 'env' from plugin 'env' registered.
+2024-06-26 18:44:15,494 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 18:44:15,557 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 18:44:15,580 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 18:44:15,589 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 18:44:15,599 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 18:44:15,611 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 18:44:15,611 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 18:45:49,690 - INFO - Application exit.
+2024-06-26 18:45:49,692 - INFO - Application shutdown.
+2024-06-26 10:01:41,020 - INFO - Logging configured.
+2024-06-26 10:01:41,057 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 10:01:41,073 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 10:01:41,099 - INFO - Command 'env' from plugin 'env' registered.
+2024-06-26 10:01:41,119 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 10:01:41,135 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 10:01:41,146 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 10:01:41,153 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 10:01:41,162 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 10:01:41,173 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 10:01:41,174 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 10:06:19,838 - INFO - Application exit.
+2024-06-26 10:06:19,839 - INFO - Application shutdown.
+2024-06-26 11:41:49,635 - INFO - Logging configured.
+2024-06-26 11:41:49,651 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 11:41:49,651 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 11:41:49,662 - INFO - Command 'env' from plugin 'env' registered.
+2024-06-26 11:41:49,665 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 11:41:49,668 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 11:41:49,669 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 11:41:49,673 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 11:41:49,673 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 11:41:49,680 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 11:41:49,680 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 22:09:49,465 - INFO - Application exit.
+2024-06-26 22:09:49,472 - INFO - Application shutdown.
+2024-06-26 23:34:38,309 - INFO - Logging configured.
+2024-06-26 23:34:38,390 - INFO - Command 'add' from plugin 'add' registered.
+2024-06-26 23:34:38,434 - INFO - Command 'divide' from plugin 'divide' registered.
+2024-06-26 23:34:38,483 - INFO - Command 'env' from plugin 'env' registered.
+2024-06-26 23:34:38,562 - INFO - Command 'exit' from plugin 'exit' registered.
+2024-06-26 23:34:38,621 - INFO - Command 'goodbye' from plugin 'goodbye' registered.
+2024-06-26 23:34:38,674 - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-26 23:34:38,722 - INFO - Command 'menu' from plugin 'menu' registered.
+2024-06-26 23:34:38,760 - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-06-26 23:34:38,806 - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-06-26 23:34:38,806 - INFO - Application started. Type 'exit' to exit.
+2024-06-26 23:34:53,206 - INFO - Application exit.
+2024-06-26 23:34:53,207 - INFO - Application shutdown.
